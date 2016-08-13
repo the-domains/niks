@@ -14,6 +14,9 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd2bac9-be63-4c10-a3ad-42f437e975ff.jpg
 layout_spectrum: 0.5679895360954106
+analytics:
+  twitter: 2@nikswebdesign
+  google: UA-62609309-1
 author:
   name: Ralph Nicolay
   email: ralph.nicolay@nikswebdesign.com
