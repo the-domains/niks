@@ -1,4 +1,3 @@
-layout_spectrum: 0.5679895360954106
 typography_spectrum: 0.7486952445469797
 color:
   brandStrength: 0.9962832240853459
@@ -11,4 +10,15 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd2bac9-be63-4c10-a3ad-42f437e975ff.jpg
+layout_spectrum: 0.5679895360954106
+author:
+  name: Ralph Nicolay
+  email: ralph.nicolay@nikswebdesign.com
+  url: www.nikswebdesign.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/969e12d5-3eda-4329-b321-69fb165a425c.png
 name: 'Niks '
+title: Website Design and Photography
