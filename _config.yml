@@ -10,6 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bd2bac9-be63-4c10-a3ad-42f437e975ff.jpg
@@ -24,4 +25,11 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/969e12d5-3eda-4329-b321-69fb165a425c.png
 name: 'Niks '
-title: Website Design and Photography
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6efbdd5-92bb-43b3-99e8-d728399e8a90.gif
+title: 'Web Design and Photography, LLC'
+description: Photography for all your needs
+purpose:
+  - type: contact
+    url: 'mailto:ralph.nicolay@nikswebdesign.com'
+    label: Contact me
