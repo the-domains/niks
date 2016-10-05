@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-13T18:52:57.508Z'
+datePublished: '2016-10-05T20:31:06.538Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
-isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - brodeur
   - lamadieu
@@ -24,7 +23,7 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-dateModified: '2016-08-13T18:52:56.639Z'
+dateModified: '2016-10-05T20:31:05.866Z'
 title: Illustration
 app_links: []
 publisher:
@@ -40,9 +39,9 @@ description: >-
   Wonka-esque habitat where you can't help but want to reach out and gobble
   everything up.
 inLanguage: en
-inNav: false
 via: {}
 starred: false
+url: illustration/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
