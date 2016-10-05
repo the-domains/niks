@@ -25,6 +25,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/969e12d5-3eda-4329-b321-69fb165a425c.png
 name: 'Niks '
+navigation:
+  - name: Photography
+    id: 955fac7a-4395-492a-8413-99c987771ff5
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6efbdd5-92bb-43b3-99e8-d728399e8a90.gif
 title: 'Web Design and Photography, LLC'
