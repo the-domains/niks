@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Niks ]]></title>
-        <description><![CDATA[Niks ]]></description>
+        <title><![CDATA[Web Design and Photography, LLC]]></title>
+        <description><![CDATA[Web Design and Photography, LLC]]></description>
         <link>https://thegrid.ai/niks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 18:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2016 20:30:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niks/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 05 Oct 2016 20:30:37 GMT</pubDate>
+        <item>
+            <title><![CDATA[Yarnell, Arizona]]></title>
+            <description><![CDATA[<article><h1>Yarnell, Arizona</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3048bcd2-0bbb-40fe-af02-462194d93927.jpg"></article>]]></description>
+            <link>https://thegrid.ai/niks/yarnell-arizona/index.html</link>
+            <guid isPermaLink="false">955fac7a-4395-492a-8413-99c987771ff5</guid>
+            <pubDate>Wed, 05 Oct 2016 20:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Tesla Will Destroy the Automobile Industry]]></title>
             <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
