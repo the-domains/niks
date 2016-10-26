@@ -1,15 +1,15 @@
 ---
-description: ''
-dateModified: '2016-10-05T20:30:35.882Z'
-datePublished: '2016-10-05T20:30:36.776Z'
-title: 'Yarnell, Arizona'
+datePublished: '2016-10-26T23:39:09.518Z'
+sourcePath: _posts/2016-08-13-yarnell-arizona.md
+inFeed: true
+hasPage: true
 author:
   - name: Ralph Nicolay
-publisher: {}
 via: {}
-sourcePath: _posts/2016-08-13-yarnell-arizona.md
-hasPage: true
-inFeed: true
+dateModified: '2016-10-26T23:39:09.210Z'
+title: 'Yarnell, Arizona'
+publisher: {}
+description: ''
 starred: false
 url: yarnell-arizona/index.html
 _type: Article
