@@ -25,7 +25,7 @@ analytics:
 author:
   name: Ralph Nicolay
   url: ''
-  email: ralph.nicolay@nikswebdesign.com
+  email: ralphontheship@gmail.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/969e12d5-3eda-4329-b321-69fb165a425c.png
 name: Niks Photography
@@ -54,7 +54,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
