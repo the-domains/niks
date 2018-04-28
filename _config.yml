@@ -36,31 +36,7 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6efbdd5-92bb-43b3-99e8-d728399e8a90.gif
 title: Slices of Life
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e776146-2376-4345-8d96-aec39170c61b.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e776146-2376-4345-8d96-aec39170c61b.jpg
-    metadata:
-      author: []
-      related: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
-      description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: 'Photography '
 purpose:
   - type: contact
