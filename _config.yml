@@ -42,3 +42,6 @@ purpose:
   - type: contact
     url: 'mailto:ralphontheship@gmail.com'
     label: E-mail Me
+  - type: internal
+    label: Let's Begin
+    item: d04b0f88-458b-40fd-a0ce-6c877f113fc9
