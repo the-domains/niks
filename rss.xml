@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Slices of Life]]></title>
+        <description><![CDATA[Slices of Life]]></description>
+        <link>https://thegrid.ai/niks/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Jun 2018 20:10:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3dcd354e-a000-4f89-8d2e-92a8c7670bab.jpg">]]></description>
+            <link>https://thegrid.ai/niks/d04b0f88-458b-40fd-a0ce-6c877f113fc9/index.html</link>
+            <guid isPermaLink="false">d04b0f88-458b-40fd-a0ce-6c877f113fc9</guid>
+            <pubDate>Tue, 26 Jun 2018 20:07:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
